@@ -3,8 +3,9 @@
 This project replicates the iconic Netflix intro animation using only HTML and CSS — **no JavaScript** animations, images, or external libraries involved. The animation mimics the glowing red light brush effect forming a stylized letter, just like the real Netflix intro.
 
 ## 🔥 Demo
-  
-  Screen Recording 2025-07-30 221110.mp4
+
+<img width="1906" height="865" alt="image" src="https://github.com/user-attachments/assets/32969625-d243-4383-9378-185136496eae" />
+
 
 ## 📁 Project Structure
 
