@@ -54,6 +54,3 @@ https://user-images.githubusercontent.com/your-github-id/your-demo.gif
 ![Netflix Intro Preview](preview.gif)  
 *You can generate a GIF using screen recording software or online tools.*
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
