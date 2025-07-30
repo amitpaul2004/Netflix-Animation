@@ -53,6 +53,3 @@ This project replicates the iconic Netflix intro animation using only HTML and C
 ![Netflix Intro Preview](preview.gif)  
 *You can generate a GIF using screen recording software or online tools.*
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
